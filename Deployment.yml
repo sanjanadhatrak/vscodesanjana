@@ -12,7 +12,7 @@ spec:
     metadata:
       labels:
         app: mrdevops
-      spec:
+    spec:
         containers:
           - name: mrdevops
             image: sanjanadhatrak/dockerhub-repo
